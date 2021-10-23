@@ -1,2 +1,2 @@
 # VelocityStaffChat
-A fork of VelocityStaffChat aimed for newer Velocity versions
+A fork of VelocityStaffChat that works in 3.0.1!
