@@ -1,2 +1,2 @@
 # VelocityStaffChat
-A fork of VelocityStaffChat aimed for sustainability for the future
+A fork of VelocityStaffChat aimed for newer Velocity versions
