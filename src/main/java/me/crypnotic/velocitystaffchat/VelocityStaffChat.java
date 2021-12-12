@@ -110,7 +110,7 @@ public class VelocityStaffChat implements SimpleCommand {
                     sendStaffMessage(player, player.getCurrentServer().get(), String.join(" ", args));
                 }
             } else {
-                player.sendMessage(Component.text("Permission denied.").color(NamedTextColor.RED));
+                player.sendMessage(Component.text("Unknown command.").color(NamedTextColor.GRAY));
             }
         } else {
             source.sendMessage(Component.text("Only players can use this command."));
